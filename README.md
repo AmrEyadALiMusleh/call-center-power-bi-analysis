@@ -243,7 +243,6 @@ Breakdown of where calls are lost, tests of whether answer speed or call duratio
 - Resolution rate (answered calls) ranges from 88.9% to 90.6%, answered rate from 79% to 83%, average satisfaction from 3.33 to 3.47, and average answer speed from 65.3 to 71.0 seconds.
 - These differences are too small to support ranking agents as strong or weak.
 - Agents differ more on answering (79.2% for Diane to 82.6% for Dan, about 3.5 points) than on resolving (about 1.8 points), but both gaps are small. Each agent has about 480 to 540 answered calls, and individual ratings vary widely.
-- As a sanity check outside the report, chi-square and ANOVA tests found no significant differences between agents on resolution, satisfaction or unanswered rate (all p-values above 0.7).
 - Unanswered rate by agent runs from 17.4% (Dan) to 20.9% (Diane). Diane has the most unanswered calls, but counts depend on call volume (633 calls for Diane and 582 for Stewart), so rates are the fair comparison.
 
 **Unanswered calls**
