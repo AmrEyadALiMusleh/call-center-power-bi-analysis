@@ -9,10 +9,14 @@ An interactive Power BI report that evaluates call center performance: how many 
 ## How to Explore the Report
 
 The screenshots below are static. To use the interactive version with filters and page navigation:
+
 1. Click `call_center.pbix` in the file list above.
 2. Click **Download raw file** (the download icon at the top right of the file page).
 3. Open the downloaded file in Power BI Desktop (free, Windows only).
----
+   
+- Download the PDF preview: call-center-report.pdf
+
+
 
 ## Business Questions
 
