@@ -74,7 +74,7 @@ The screenshots below are static. To use the interactive version with filters an
 
 | KPI | Definition | Denominator |
 |-----|------------|-------------|
-| Total Calls | Count of Call Id | No-denominator |
+| Total Calls | Count of Call Id | Not applicable |
 | Answered Rate | Answered calls / total calls | All calls |
 | Unanswered Rate | Unanswered calls / total calls | All calls |
 | Resolution Rate | Resolved calls / total calls | **All calls** |
