@@ -4,6 +4,14 @@ An interactive Power BI report that evaluates call center performance: how many 
 
 > **Data note:** This project uses a public Kaggle dataset, not data from a real company. Findings describe this dataset only.
 
+
+
+## How to Explore the Report
+
+The screenshots below are static. To use the interactive version with filters and page navigation:
+1. Click `call_center.pbix` in the file list above.
+2. Click **Download raw file** (the download icon at the top right of the file page).
+3. Open the downloaded file in Power BI Desktop (free, Windows only).
 ---
 
 ## Business Questions
@@ -304,6 +312,7 @@ They answer different questions. 73% is resolved out of all calls, and about 90%
 Check whether the small gaps between agents are real, look for patterns over time, and, if a reason for unanswered calls were recorded, find out why calls are missed.
 
 ---
+
 
 ## Tools
 
